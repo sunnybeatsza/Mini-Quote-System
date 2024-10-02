@@ -15,4 +15,3 @@
 
 * To run all the unittests: `python3 -m unittest tests/test_quote_system.py`
 * To run a specific step's unittest, e.g step *1*: `python3 -m unittest tests.test_quote_system.MyTestCase.test_1_choose_quote_file`
-* _Note_: at the minimum, these (*unedited*) tests must succeed before you may submit the solution for review.
